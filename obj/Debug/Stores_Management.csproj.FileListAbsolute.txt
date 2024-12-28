@@ -1,0 +1,17 @@
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\bin\Debug\Stores_Management.exe.config
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\bin\Debug\Stores_Management.exe
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\bin\Debug\Stores_Management.pdb
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.csproj.AssemblyReference.cache
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmUsers.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.Properties.Resources.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.csproj.GenerateResource.cache
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.csproj.CoreCompileInputs.cache
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.exe
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.pdb
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmLogin.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmError.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmAddAdmin.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmAdmin.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmMain.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmMessage.resources
+C:\Users\ywsef\source\sql database\Stores_Management\Stores_Management\obj\Debug\Stores_Management.frmStart.resources
